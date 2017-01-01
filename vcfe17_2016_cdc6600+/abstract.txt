@@ -1,0 +1,7 @@
+Defining Supercomputing — Seymour Cray und die CDC 6600
+
+Im letzten Jahr beleuchtete Teil 1 der Vortragsreihe die Entstehung der 
+Control Data Corporation. Diesmal geht es im wesentlichen um die 
+Entwicklung des CDC 6600 und dessen Nachfolger CDC 7600, mit denen 
+Control Data weltweit das Feld des Supercomputing gute 10 Jahre lang 
+deutlich anführte.
