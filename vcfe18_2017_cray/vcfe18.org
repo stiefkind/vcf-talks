@@ -1,4 +1,4 @@
-:Time-stamp: <2016-12-31 08:33:10 wgs>
+:Time-stamp: <2017-01-04 09:13:38 wgs>
 
 #+TITLE: VCFE18 -- Cray Research Inc., CRAY-1 und CRAY-2
 #+DATE: 2016-12-31
@@ -21,4 +21,12 @@
     http://www.cbi.umn.edu/collections/cdc/histtimeline.html
   - Control Data Spin-Offs and Start-Ups:
     http://eye4innovation.typepad.com/eye4innovation/control-data-legacy-trees.html
+  - 
+
+
+* Bild-Quellen und Lizenzen
+
+  - Cray 1 - NMFECC 1983, LLNL:
+    https://secure.flickr.com/photos/llnl/4886020817
+    CC-BY-NC-ND 2.0
   - 
