@@ -17,7 +17,7 @@ The talks usually are in German. I sometimes prepare an additional English slide
 * Some words about the CDC STAR-100
 * Anything interesting about the IBM STRETCH?
 * IBM 360/91 -- the "phantom machine"
-* IBM ACS-1 -- early IBM supercomputer research, never finished
-  ([https://en.wikipedia.org/wiki/ACS-1](ACS-1 @ WP))
+* [https://en.wikipedia.org/wiki/ACS-1](IBM ACS-1) -- early IBM
+  supercomputer research, never finished
 
 
