@@ -9,15 +9,14 @@ The talks usually are in German. I sometimes prepare an additional English slide
 
 ## Ideas for upcoming talks
 
-* Development of Cray-2 / Cray-3
+* Development of Cray-2 / Cray-3 -> *scheduled for 2018*
 * Development of Cray X-MP and Y-MP
-* Some words about the CDC 205
-* The Adventures of the CDC ETA 10
+* Some words about the [CDC STAR-100](https://en.wikipedia.org/wiki/CDC_STAR-100)
+* Some words about the [CDC 205](https://en.wikipedia.org/wiki/CDC_Cyber#Cyber_200_series)
+* The Adventures of the [ETA-10](https://en.wikipedia.org/wiki/ETA10) supercomputer.
 * What happened to CDC after Seymour Cray left?
-* Some words about the CDC STAR-100
 * Anything interesting about the IBM STRETCH?
 * IBM 360/91 -- the "phantom machine"
 * [IBM ACS-1](https://en.wikipedia.org/wiki/ACS-1) -- early IBM
   supercomputer research, never finished
-
-
+* [SUPRENUM](https://de.wikipedia.org/wiki/SUPRENUM), the German supercomputing initiative from around 1990.
